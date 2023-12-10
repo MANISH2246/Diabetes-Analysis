@@ -17,8 +17,9 @@ This repository contains Python code for analyzing a diabetes dataset. The datas
 ## Usage
 
 1. Clone the repository:
-    git clone (https://github.com/MANISH2246/Diabetes-Analysis)git
-    cd diabetes-dataset-analysis
+    git clone https://github.com/MANISH2246/Diabetes-Analysis.git
+cd Diabetes-Analysis
+
 
 2. Install the required dependencies:
 
